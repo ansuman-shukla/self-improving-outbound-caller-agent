@@ -248,7 +248,7 @@ Built with user experience in mind:
         ┌─────────────┼─────────────┐
         ▼             ▼              ▼
    ┌────────┐   ┌─────────┐   ┌──────────┐
-   │MongoDB │   │ Gemini  │   │ Retell   │
+   │MongoDB │   │ Gemini  │   │ LiveKit  │
    │  DB    │   │   API   │   │   API    │
    └────────┘   └─────────┘   └──────────┘
     Persistence   AI Engine     Voice Calls
@@ -342,7 +342,7 @@ outbound-caller-python/
 │   │   └── config/                   # Configuration files
 │   │
 │   ├── agents/                       # Agent Implementations
-│   │   └── outbound_caller.py        # Retell AI integration
+│   │   └── outbound_caller.py        # liveKit integration
 │   │
 │   └── test/                         # Unit & Integration Tests
 │       ├── test_tuning_service.py
@@ -406,7 +406,7 @@ outbound-caller-python/
 - **Language**: Python 3.11+
 - **Database**: MongoDB 6.0+ (Document-based NoSQL)
 - **AI Engine**: Google Gemini 2.5 Flash (Conversation generation & evaluation)
-- **Voice API**: Retell AI (Outbound calling)
+- **Voice API**: Twilio (Outbound calling)
 - **Async Runtime**: asyncio + Motor (MongoDB async driver)
 
 ### Frontend
@@ -443,10 +443,6 @@ Before installation, ensure you have:
 3. **MongoDB 6.0+**
    - Local installation OR
    - MongoDB Atlas account (cloud option)
-
-4. **API Keys**
-   - **Google Gemini API Key**: [Get it here](https://ai.google.dev/)
-   - **Retell AI API Key**: [Sign up here](https://www.retellai.com/) (for call functionality)
 
 5. **Git** (for cloning the repository)
 
@@ -487,20 +483,19 @@ pip install -r requirements.txt
 Create `.env.local` file in the `backend/` directory:
 
 ```env
-# MongoDB Configuration
-MONGODB_URI=mongodb://localhost:27017
-MONGODB_DB_NAME=voice_agent_evaluator
-
-# Google Gemini API
-GEMINI_API_KEY=your_gemini_api_key_here
-
-# Retell AI Configuration (for call functionality)
-RETELL_API_KEY=your_retell_api_key_here
-RETELL_AGENT_ID=your_retell_agent_id_here
-
-# Server Configuration
-HOST=0.0.0.0
-PORT=8000
+LIVEKIT_URL=LIVEKIT_URL
+LIVEKIT_API_KEY=LIVEKIT_API_KEY
+LIVEKIT_API_SECRET=LIVEKIT_API_SECRET
+DEEPGRAM_API_KEY=DEEPGRAM_API_KEY
+CARTESIA_API_KEY=your_Cartesia_API_Key
+GOOGLE_API_KEY=GOOGLE_API_KEY
+OPENAI_API_KEY=OPENAI_API_KEY
+SIP_OUTBOUND_TRUNK_ID=SIP_OUTBOUND_TRUNK_ID
+TRANSCRIPT_DIR=./transcripts
+MONGODB_URI=MONGODB_URI
+GEMINI_API_KEY=GEMINI_API_KEY
+ELEVEN_API_KEY=ELEVEN_API_KEY
+SARVAM_API_KEY=SARVAM_API_KEY
 ```
 
 **Note**: Replace placeholder values with your actual API keys.
@@ -530,10 +525,10 @@ If using MongoDB Atlas, ensure your connection string is in `MONGODB_URI`.
 cd backend
 python .\agents\outbound_caller.py dev
 ```
+This initializes the voice agent with LiveKit You should see output indicating the agent is registered. Once you see the success message, you can proceed to start the server
+.
 
-This initializes the voice agent with Retell AI. You should see output indicating the agent is registered. Once you see the success message, you can proceed to start the server.
-
-**Why this is required**: The outbound caller agent registers itself with the Retell AI service and sets up necessary webhooks. This registration must happen before the FastAPI server starts to ensure all endpoints are properly configured.
+**Why this is required**: The outbound caller agent registers itself with the LiveKit service and sets up necessary webhooks. This registration must happen before the FastAPI server starts to ensure all endpoints are properly configured.
 
 #### 2.6 Start Backend Server
 
@@ -823,7 +818,7 @@ MONGODB_DB_NAME=voice_agent_evaluator
 GEMINI_API_KEY=your_key_here
 GEMINI_MODEL=gemini-2.5-flash  # Optional: default model
 
-# Retell AI (for calls)
+# LiveKit (for calls)
 RETELL_API_KEY=your_key_here
 RETELL_AGENT_ID=your_agent_id_here
 
@@ -1061,7 +1056,6 @@ docker-compose up -d
 **Symptoms**:
 - Errors when trying to use the outbound calling functionality
 - Agent registration failures
-- Retell AI connection issues
 
 **Solution**:
 ```bash
@@ -1078,7 +1072,7 @@ python .\agents\outbound_caller.py dev
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-**Why**: The outbound caller agent must register with Retell AI and set up webhooks before the FastAPI server starts. Running the server first will cause the calling functionality to fail.
+**Why**: The outbound caller agent must register with LiveKit and set up webhooks before the FastAPI server starts. Running the server first will cause the calling functionality to fail.
 
 #### 2. Backend won't start - "Port 8000 already in use"
 
