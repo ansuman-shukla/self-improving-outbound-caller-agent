@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "item_5962530dbb58",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.97998047
+    },
+    {
+      "id": "item_a489c18ba00e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Jayden! This is Ana from the bank. How are you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_5ecb5b36037e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "K. I'm alright. You up for a date tonight?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.98083495
+    },
+    {
+      "id": "item_da559cb4f04b",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I appreciate the invitation, but I'm here to assist you with your banking needs. I wanted to discuss your outstanding credit card bill. You currently have an overdue amount of ₹1250.75. If you could settle this as soon as possible, it would be greatly appreciated. How can I assist you with this?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_48e0efbb4bf4",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I don't want to."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 1.0
+    },
+    {
+      "id": "item_edde7d85b2ea",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand that settling bills can sometimes feel overwhelming. However, it's important to address this overdue amount to avoid any further charges or penalties. I'm here to help you. Is there a reason you prefer to wait?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_68cbbae9aa44",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah. I have to pay my child's school fee."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8950195299999999
+    },
+    {
+      "id": "item_3a321fb57f1a",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I completely understand that priorities can shift, especially with important expenses like school fees. However, managing your overdue credit card bill is also essential to avoid any additional issues. \n\nWould you like to discuss possible options for settling the outstanding amount of ₹1250.75, or perhaps set up a payment plan? I'm here to help you find a solution that works for you."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_4b1de83a2a75",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah. I will I will settle it as soon as possible. Thank you for your assistance."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99853517
+    },
+    {
+      "id": "item_c668607c1ec9",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Thank you, Jayden! I appreciate your willingness to settle the amount. If you need any further assistance or have any questions, please feel free to reach out. Have a great day!"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_6a400ec9d7bd",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay. Thank you."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9970703
+    },
+    {
+      "id": "item_ad788ae7823d",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "You're welcome! Take care, Jayden. If you need anything, don't hesitate to contact us. Goodbye!"
+      ],
+      "interrupted": false
+    }
+  ]
+}

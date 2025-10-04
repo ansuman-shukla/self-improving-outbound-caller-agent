@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": "item_603f9f065f51",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9790039
+    }
+  ]
+}

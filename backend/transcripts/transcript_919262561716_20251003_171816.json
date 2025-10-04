@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "item_adb1c37fc9be",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.94628906
+    },
+    {
+      "id": "item_0e3d3f0fdaaf",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Jayden! This is a call from your dental practice to confirm your upcoming appointment. It's scheduled for next Tuesday at 3 PM. Can you please confirm that you're able to make it?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_fc2123f18f7f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "And showed showed."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.36392212
+    },
+    {
+      "id": "item_6dae89003d17",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Run"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.52490234
+    },
+    {
+      "id": "item_cbde435fc24e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Could you clarify what you meant, or if there's anything else I can assist you with regarding your appointment?"
+      ],
+      "interrupted": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": "item_a82d726e11b0",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9255371
+    },
+    {
+      "id": "item_a747610c5e49",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Jayden! Thanks for calling. I hope you’re doing well today. I understand you have an upcoming appointment. I’d like to confirm the details with you.\n\n- Appointment: next Tuesday at 3:00 PM\n\nIs that correct? If you’d like to confirm, I can finalize it. If you need to adjust the date or time, I can check other openings as well. You can also say if you’d prefer to speak with a human agent."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_507ae311480a",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay. So I I want to finalize my Plus, I want to check what all are the available slots for"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9721679766666668
+    }
+  ]
+}

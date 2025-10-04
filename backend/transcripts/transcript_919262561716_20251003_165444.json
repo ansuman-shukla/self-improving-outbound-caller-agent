@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "id": "item_dad486b8de40",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.7363281
+    },
+    {
+      "id": "item_ff06075d2259",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello! Is this Jayden? How can I assist you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_7a30f430a1ae",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yes."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.98168945
+    },
+    {
+      "id": "item_bdd11a5e3235",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "So I want to know my appoint appointment"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9909668
+    },
+    {
+      "id": "item_73e6b99c1d9e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Certainly, Jayden! Your appointment is scheduled for next Tuesday at 3 PM. Is there anything else you'd like to know or confirm about the appointment?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_bc52348bf9f7",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I want you to escalate this call because you're not helping."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9360351499999999
+    },
+    {
+      "id": "item_501c88f6113d",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I apologize if I'm not meeting your expectations. Would you like me to transfer you to a human agent for further assistance?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_a2f9d1c99849",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.97631836
+    },
+    {
+      "id": "item_2c874633de9e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Please."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9523926
+    },
+    {
+      "id": "item_bd2561c2dd81",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Alright, Jayden. I'll transfer you to a human agent for further assistance. Please hold on for a moment."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_5181c7b3906e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I encountered an error while trying to transfer the call. Let me try again. If you continue to experience any issues, please let me know so I can assist you further."
+      ],
+      "interrupted": false
+    }
+  ]
+}

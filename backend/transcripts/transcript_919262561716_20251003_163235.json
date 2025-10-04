@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": "item_602c5ab86507",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.86206055
+    },
+    {
+      "id": "item_a644d20962ef",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Jayden! Thank you for calling. I'm reaching out to confirm your dental appointment scheduled for next Tuesday at 3 p.m. Does that time still work for you?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_bc8f1fdd27f6",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah. I want to change it to a different time."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9831543
+    },
+    {
+      "id": "item_d844a0db986c",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Sure, I can help with that. Let me check the availability for next Tuesday. One moment, please."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_d844a0db986c/fnc_0",
+      "type": "function_call",
+      "call_id": "call_wGZaednvWOJKTWXZLD3OvmUR",
+      "arguments": "{\"date\":\"2023-11-14\"}",
+      "name": "look_up_availability"
+    },
+    {
+      "id": "item_100d30659a7d",
+      "type": "function_call_output",
+      "name": "look_up_availability",
+      "call_id": "call_wGZaednvWOJKTWXZLD3OvmUR",
+      "output": "{'available_times': ['1pm', '2pm', '3pm']}",
+      "is_error": false
+    },
+    {
+      "id": "item_4681ab1f5de7",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "We have availability next Tuesday at 1 p.m. and 2 p.m. Would either of these times work for you?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_41179cccb26d",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah. It works for me."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.97265625
+    },
+    {
+      "id": "item_7d392de43b47",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Great! Would you like to reschedule your appointment to 1 p.m. or 2 p.m. next Tuesday?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_270c12d85328",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "So I want to end the call right now. I'm busy."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99316406
+    },
+    {
+      "id": "item_a49789ff67c9",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "No problem, Jayden. I'll go ahead and end the call now. Thank you for reaching out, and feel free to contact us again when you're ready to reschedule. Have a great day!"
+      ],
+      "interrupted": false
+    }
+  ]
+}

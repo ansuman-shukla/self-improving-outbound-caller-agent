@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "id": "item_ee1ee11328c3",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Right."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.84399414
+    },
+    {
+      "id": "item_f305b288bbe8",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Ansuman! This is Ana calling from the bank. I hope you're doing well today. \n\nI'm reaching out to remind you about your outstanding credit card bill of ₹1250.75. It’s important to settle this amount as soon as possible to avoid any additional fees. \n\nPlease let me know if you have any questions or if there's a way I can assist you in resolving this matter."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_9e1ea9e704f1",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay. So I want to not going to pay the bill."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9719238299999999
+    },
+    {
+      "id": "item_873e279f9ff5",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Do whatever you want."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99902344
+    }
+  ]
+}

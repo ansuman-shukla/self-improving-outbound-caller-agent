@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": "item_a62478d85f46",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8286133
+    },
+    {
+      "id": "item_61c844fe7c9e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello Jayden! This is the dental practice calling to confirm your upcoming appointment. Your appointment is scheduled for next Tuesday at 3pm. Does this date and time still work for you?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_b2a7fa0b91b0",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9494629
+    },
+    {
+      "id": "item_82881c611787/fnc_0",
+      "type": "function_call",
+      "call_id": "call_vG9KjAxSsPFRFcJTN0GErb3d",
+      "arguments": "{\"date\":\"next Tuesday\",\"time\":\"3pm\"}",
+      "name": "confirm_appointment"
+    },
+    {
+      "id": "item_bd3de1ee1ec1",
+      "type": "function_call_output",
+      "name": "confirm_appointment",
+      "call_id": "call_vG9KjAxSsPFRFcJTN0GErb3d",
+      "output": "reservation confirmed",
+      "is_error": false
+    },
+    {
+      "id": "item_d2f0f63d4dd2",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Thank you, Jayden. Your appointment for next Tuesday at 3pm has been confirmed. If there's anything else you need, feel free to call us. Have a great day!"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_33bfd291f8dd",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah. Thank you."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9916992
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "item_f4543f64bff6",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Right."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.73999023
+    },
+    {
+      "id": "item_d5aa7e87bd0e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello Jayden! I'm calling to confirm your upcoming dental appointment. It's scheduled for next Tuesday at 3 PM. Could you please confirm if this date and time work for you?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_dd2fd5c449bc",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah. It works for me."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9897461
+    },
+    {
+      "id": "item_a1dc610fb676/fnc_0",
+      "type": "function_call",
+      "call_id": "call_DD8qIEvWkKfZo4vNbRDfb35l",
+      "arguments": "{\"date\":\"2023-11-07\",\"time\":\"15:00\"}",
+      "name": "confirm_appointment"
+    },
+    {
+      "id": "item_aa6a22c3e585",
+      "type": "function_call_output",
+      "name": "confirm_appointment",
+      "call_id": "call_DD8qIEvWkKfZo4vNbRDfb35l",
+      "output": "reservation confirmed",
+      "is_error": false
+    },
+    {
+      "id": "item_b2a9ea892adf",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Great, your appointment for next Tuesday at 3 PM has been confirmed. If you have any further questions or need assistance, feel free to reach out. Have a wonderful day!"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_3f994c4fb976",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.97094727
+    },
+    {
+      "id": "item_d32dd8f6bcbc",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Bye."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99609375
+    }
+  ]
+}

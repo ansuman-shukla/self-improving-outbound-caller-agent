@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "item_884fc7165295",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99121094
+    },
+    {
+      "id": "item_c8a10c9bae15",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Ansuman! This is Ana from SBI Bank. I hope you're doing well today. I’m reaching out to discuss your credit card account. Could you kindly confirm your full name for me?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_e27f8dfd77af",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "So my name is Anshuman."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99609375
+    },
+    {
+      "id": "item_5befebfd9dae",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Thank you for confirming, Anshuman. I appreciate it. I'm calling regarding an outstanding balance on your credit card account, which currently stands at ₹20,000. I understand that discussing financial matters can be stressful, and I'm here to help you through this situation. How are you feeling about it?"
+      ],
+      "interrupted": false
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": "item_0183f4fb8040",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9147949
+    },
+    {
+      "id": "item_10a7fa897479",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello! May I speak with Jayden, please?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_dd43b5791432",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah. You are speaking with Jaden."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99609375
+    },
+    {
+      "id": "item_3b3a7b2ffff8",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Thank you for confirming your identity, Jayden. I'm calling to remind you about your outstanding credit card bill of ₹1250.75. It would be great if you could settle this debt as soon as possible. Is there anything I can assist you with regarding this?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_8036a1eefcf2",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I do not have this debt on me. Please confirm that."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9990234499999999
+    },
+    {
+      "id": "item_e4545cda35d2",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand your concern, Jayden. To assist you better, I would need to verify some additional information regarding your account. Could you please confirm your date of birth or the last four digits of your credit card?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_15c4b285d93b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "No. Share my personal identity with someone."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99450685
+    },
+    {
+      "id": "item_e1d50a29c463",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand your concerns about privacy, Jayden. However, I cannot share your personal information with anyone. My goal is to help you resolve this matter. Would you prefer to speak with a human agent for further assistance?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_b327f2048163",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "No. Fuck off."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9863281
+    },
+    {
+      "id": "item_7aaba23777a3",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Bye."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9975586
+    }
+  ]
+}

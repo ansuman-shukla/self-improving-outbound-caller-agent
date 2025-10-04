@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "item_7e6f6f432259",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.94873047
+    },
+    {
+      "id": "item_85450986e741",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Ansuman! This is Ana from the bank. How are you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_b26762d2d0e6",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I'm alright."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9724121
+    },
+    {
+      "id": "item_199c4ab5697b",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I'm glad to hear that! The reason for my call is to discuss an outstanding credit card bill. You currently have an overdue amount of ₹232.0. I wanted to remind you about this and encourage you to settle it as soon as possible. Is there anything I can assist you with regarding this matter?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_fdc58b9ed925",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I do not want your assistance."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9819336
+    }
+  ]
+}

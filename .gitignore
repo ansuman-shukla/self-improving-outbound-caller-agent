@@ -1,0 +1,7 @@
+.vscode
+__pycache__/
+*.pyc
+TODO.md
+prd.md
+.env
+SUMMARY.md

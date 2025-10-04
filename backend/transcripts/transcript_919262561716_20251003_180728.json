@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "item_11202b78b09e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Five."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.64501953
+    },
+    {
+      "id": "item_e0514bee6dbc",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "It seems like you might have said something by accident. How can I assist you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_fb5d2da4ea8b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "So I want to know about my appointments."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8647461
+    },
+    {
+      "id": "item_30a80ff3e1bb",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Of course, Jayden! I can help you with that. You have an upcoming appointment scheduled for next Tuesday at 3 PM. Would you like to confirm this appointment?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_56acae35e36e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Actually, I want to order a pizza."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.97509766
+    },
+    {
+      "id": "item_48a536b6c44e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I can help you with your dental appointment, but I can't assist with pizza orders. Would you like to confirm your dental appointment for next Tuesday at 3 PM?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_e1595a5b7814",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "No. I want to cancel it."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9980469
+    },
+    {
+      "id": "item_e6923cfeed8a",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand that you want to cancel your appointment. However, I currently can’t assist with cancellations. Would you like to speak with a human agent to help you with that?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_4481f206fc5b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yep. Sure."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9758301
+    },
+    {
+      "id": "item_81328f35c001",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "That."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99560547
+    },
+    {
+      "id": "item_c10d8e3fa88c",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I'll be transferring you to a human agent now. Please hold on for a moment. "
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_a0e20bb48f7e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "There was an error transferring the call. I'm sorry for the inconvenience. Would you like to try to speak with a human agent again?"
+      ],
+      "interrupted": false
+    }
+  ]
+}

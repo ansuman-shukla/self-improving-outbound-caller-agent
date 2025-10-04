@@ -1,0 +1,215 @@
+{
+  "items": [
+    {
+      "id": "item_0fc16611ed01",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8417969
+    },
+    {
+      "id": "item_ad052ddc1157",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, is this Prakash Singh?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_ab7a9cfe450b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yes. Is Prakash."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9864501999999999
+    },
+    {
+      "id": "item_9d7e4ab8b4bc",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Singh."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.86376953
+    },
+    {
+      "id": "item_108138fed390",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Thank you for confirming your identity, Mr. Singh. I hope you are doing well today. I am Ana, calling from SBI Bank regarding your credit card account. \n\nI wanted to discuss an outstanding balance on your credit card of ₹1111.0. I understand these matters can sometimes be overwhelming, and I'm here to assist you. How are you feeling about this?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_ced2d0465f73",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "So what should I do?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9970703
+    },
+    {
+      "id": "item_a5d2adb30569",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand that this may be a challenging situation, and I'm here to help you find a way forward. There are a few options available to settle the outstanding amount of ₹1111.0:\n\n1. **Immediate Full Payment:** If you're in a position to pay the full amount right away, that would resolve this matter quickly and help you avoid any further charges. \n\n2. **Partial Payment:** If paying the full amount isn't feasible at the moment, we can discuss the possibility of a partial payment. Could you let me know if there's an amount you could manage to pay today?\n\n3. **Payment Plan/Hardship Program:** If you're facing financial difficulties, we can explore flexible repayment options or special assistance programs that can help you. If this is the case, I would need to"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_760b2e467769",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I do not want to do the payment, actually."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9951172
+    },
+    {
+      "id": "item_2089b68ed53b",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand that making a payment might not be what you wish to do at this moment, and it's completely okay to feel that way. It’s important for us to discuss your options and find a suitable solution.\n\nCould you share with me if there are any specific reasons for not wanting to make a payment right now? This will help me understand your situation better and see if there are other arrangements we can explore together."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_6889ba865338",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "No. I will not pay bill. Do anything that you want."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9719238266666667
+    },
+    {
+      "id": "item_03901531e564",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I hear your frustration, Mr. Singh, and I want to assure you that I'm here to support you through this. It's not uncommon for people to feel overwhelmed by their financial situations, and I completely understand your position.\n\nWhile I cannot demand payment, it's essential for us to discuss this matter further to find an amicable solution. Ignoring the outstanding balance can lead to additional charges or impact your credit score in the long run, which may not be desirable.\n\nWould you be open to reviewing your options again, such as a payment plan or any special hardship programs? Or perhaps if you have any documentation that you wish to dispute, I can assist you with that. Your cooperation is greatly appreciated, and I'm here to help in any way possible."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_763ed4d196b0",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "No. I will not do payment. The is no from my side pending."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9663085875
+    },
+    {
+      "id": "item_96d10609d9bd",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand that you believe there's no outstanding amount on your side, Mr. Singh, and I respect your perspective. Let's clarify this matter together.\n\nAccording to our records, there is a balance of ₹1111.0 associated with your credit card, which was issued to you. The details indicate that this balance may need further discussion to resolve. If you would like, I can send you documented proof of the outstanding amount to your registered email or through postal mail so you can review it.\n\nWould you prefer to receive this documentation? It’s important for you to have all the information to resolve this matter effectively."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_af674c58fc45",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.984375
+    },
+    {
+      "id": "item_16176b95fd36",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I get point. I will do the payment as prompted."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9738769466666666
+    },
+    {
+      "id": "item_6442f61aceb0",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Thank you for considering the payment, Mr. Singh. I appreciate your willingness to resolve this matter. \n\nTo proceed with the payment of ₹1111.0, would you like to make the full payment today? If so, I can provide you with the necessary payment instructions. If you prefer another arrangement, please let me know, and we can discuss that as well. \n\nYour cooperation is invaluable, and I’m here to help you through this process!"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_058cd59d36c0",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay. I will do the full payment today."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9863281
+    },
+    {
+      "id": "item_eb36f25cba46",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "That's great to hear, Mr. Singh! Completing the full payment today will help you resolve the outstanding balance of ₹1111.0 and avoid any further charges. \n\nTo make the payment, you can use the following methods:\n1. **Online Transfer**: You can make a payment through our SBI Bank website or mobile app.\n2. **NEFT/RTGS**: You can also transfer the amount from another bank using NEFT or RTGS. \n\nPlease let"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_94fe16b02104",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay. I will figure that out."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.95166016
+    },
+    {
+      "id": "item_4750b2b070e6",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "And bye for now."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.76733398
+    },
+    {
+      "id": "item_5a78c8023989",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Thank you for your cooperation, Mr. Singh. If you have any questions or need further assistance, don’t hesitate to reach out. Have a great day and goodbye for now!"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_244173ff422b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah. Goodbye."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9794922
+    }
+  ]
+}

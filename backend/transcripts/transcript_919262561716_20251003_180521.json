@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "id": "item_c93e796e8b40",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Right."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.7819824
+    }
+  ]
+}

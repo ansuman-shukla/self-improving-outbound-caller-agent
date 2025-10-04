@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "item_8df1e8193966",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8937988
+    },
+    {
+      "id": "item_645c95220cef",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Priya Sharma! This is Ana from the bank. How are you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_4f77b5e03e03",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I'm fine."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.90063477
+    },
+    {
+      "id": "item_3f475fad3079",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I'm glad to hear that! I'm reaching out to you regarding an outstanding credit card bill of ₹1850.25. I kindly urge you to settle this amount as soon as possible. If you have any questions or need assistance, please let me know."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_8f30f2a8e678",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.97314453
+    },
+    {
+      "id": "item_0f6cb1b56b67",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "But I do not have which built."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99316406
+    },
+    {
+      "id": "item_e552664d82e4",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand that sometimes finances can be challenging. However, it's important to address the outstanding amount to avoid any additional fees or impacts on your credit score. Would you like to discuss any options or arrangements that may help you settle this bill?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_71e47a7fbf04",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "No."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99316406
+    },
+    {
+      "id": "item_99b35ca8261f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Bye."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.93359375
+    }
+  ]
+}

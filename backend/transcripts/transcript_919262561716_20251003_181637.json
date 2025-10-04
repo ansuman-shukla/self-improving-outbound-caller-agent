@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "id": "item_c54ebc77d934",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.80029297
+    },
+    {
+      "id": "item_dd3dd9d17866",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Jayden! This is Ana from the bank. How are you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_320803d0ce1e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah. I'm fine."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9951172
+    },
+    {
+      "id": "item_dfa7155dbe59",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I'm glad to hear that! I'm reaching out to remind you about your outstanding credit card bill of ₹1250.75. It's important to settle this amount as soon as possible to avoid any further charges. Do you have any questions or concerns regarding this?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_6ad2b5eaf92e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Actually, I do not have any credit card bill spending, so please check your system."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9819336000000001
+    },
+    {
+      "id": "item_e5d751e0ca26",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand your concern, Jayden. However, I would like to confirm that the outstanding balance of ₹1250.75 has been recorded in our system. Could you please verify if there might be any transactions you might not recall? If you'd like, I can assist you further in checking the details or transferring your call to a human agent for more support. What would you prefer?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_08008d5de11b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I do not have any outstanding bill. So please check the system. Do not call me again."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.90169271
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": "item_9630435de87b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9494629
+    },
+    {
+      "id": "item_73ba364bcecf",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Ansuman! This is Ana from the bank. How are you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_394688b3056b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I'm alright."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9921875
+    },
+    {
+      "id": "item_e7cc9e431017",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I'm glad to hear that! I'm calling to remind you about your outstanding credit card bill of ₹1232.0. Could you please arrange to settle this amount at your earliest convenience? It’s important to keep your account in good standing."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_06b5431500f6",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "No. I do not want to settle this bill."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.918212885
+    },
+    {
+      "id": "item_f90a13e7f026",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand your position, but it's important to handle overdue payments to avoid any potential penalties or interest charges. Is there anything I can assist you with regarding this matter?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_ef6476dfa50b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Do anything that you want."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9921875
+    },
+    {
+      "id": "item_b2062bd8dd1e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I will not pay the bill."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9970703
+    },
+    {
+      "id": "item_6989d5b259ad",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I appreciate your clarity, Ansuman. If you have any questions or need assistance in the future, please feel free to reach out. Thank you for your time today. If you'd like to end the call, just let me know."
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_d0901fdadb3a",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay. I want to end the one."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8745117
+    }
+  ]
+}

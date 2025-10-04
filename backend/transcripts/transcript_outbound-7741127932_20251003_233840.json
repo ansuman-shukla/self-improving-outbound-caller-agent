@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "id": "item_3405d7771088",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9506836
+    },
+    {
+      "id": "item_8422d746210e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Jayden! This is Ana calling from your bank. How are you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_e2e5eb9c6597",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "At least"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9941406
+    },
+    {
+      "id": "item_90815ef59cee",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand, and I appreciate you taking the time to speak with me. I'm calling to remind you about your outstanding credit card bill of ₹1250.75. It's important to settle this debt as soon as possible to avoid any additional charges. \n\nIs there anything I can assist you with regarding this?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_eed2956d7c5c",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Oh, I will see the time."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.5959472699999999
+    },
+    {
+      "id": "item_1d5523cab35b",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "So me in from my side."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.90930176
+    },
+    {
+      "id": "item_536b0ea17e5a",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand that it may be a busy time for you. Please remember that addressing this outstanding balance is important to maintain a good credit standing and avoid any future issues. If you have any questions or need assistance, feel free to reach out. \n\nWould you like to discuss payment options or anything else?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_76fcb4cec182",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "No. Nothing."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99072266
+    },
+    {
+      "id": "item_9c426425873f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Thank you."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9995117
+    },
+    {
+      "id": "item_9c6e17ac90f9",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Thank you, Jayden. If you need any assistance in the future, please don’t hesitate to reach out. Have a great day! \n\nI will end the call now. "
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_37acef391313",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.96875
+    }
+  ]
+}

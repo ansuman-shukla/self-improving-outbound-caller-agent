@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "id": "item_4bf57a0232c2",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9711914
+    },
+    {
+      "id": "item_24a73a7e9aed",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, is this Ansuman Shukla?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_7d7a2d423f99",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yes. This is Anshooman Shukla Madhav Akar."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.76171875
+    },
+    {
+      "id": "item_02a6cc513f4c",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Thank you for confirming your identity, Ansuman Shukla. I'm calling to remind you about your outstanding credit card bill of ₹125.0. It's important to settle this amount as quickly as possible to avoid any additional charges. \n\nWould you like to discuss this further or do you have any questions?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_71493b4dbb3d",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "So I was thinking why should I pay this bill?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99902344
+    },
+    {
+      "id": "item_0f3a48bde13e",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I do not have any idea."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99902344
+    },
+    {
+      "id": "item_9b519c3a6ba0",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand that it can be confusing sometimes. Paying your credit card bill on time is important for maintaining a good credit score, avoiding late fees, and ensuring that your account remains in good standing. \n\nIf you have any concerns about the bill or your account, I’d be happy to help address those. Would you like to proceed with making the payment?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_6018cabc1cf5",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8378906
+    },
+    {
+      "id": "item_1c0289e796f5",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Great! To assist you with the payment process, please let me know how you would like to make the payment. Do you prefer to use an online method, or would you like to receive instructions for paying over the phone?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_cbdc048cb531",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "No. I I'll not pay at all."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.98583984
+    },
+    {
+      "id": "item_c206391809ba",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I understand your decision, but please keep in mind that not paying the bill could lead to additional charges or impact your credit score. If you change your mind or have any questions in the future, feel free to reach out.\n\nIs there anything else I can help you with today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_f666d61e75bb",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I do not want to pay the bill and end the call right"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9970703
+    },
+    {
+      "id": "item_28be028db185",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I do not want to talk to you."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 1.0
+    }
+  ]
+}

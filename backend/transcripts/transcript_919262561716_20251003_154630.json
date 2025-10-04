@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": "item_4c199391ae33",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.77124023
+    },
+    {
+      "id": "item_b7e16ba4f9e8",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello Jayden! This is the dental practice calling to confirm your upcoming appointment. It's scheduled for next Tuesday at 3 PM. Does this time still work for you?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_ba2ab0e13c28",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.86450195
+    },
+    {
+      "id": "item_f50f759abaac",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi Jayden, this is the dental practice. I wanted to confirm your appointment for next Tuesday at 3 PM. Does that time still work for you?"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_b3c04493f3d4",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I can't hear you."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9995117
+    },
+    {
+      "id": "item_6881d5e8ac05",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "It looks like there might be a connection issue. Would you like me to transfer you to a human agent who can assist you further?"
+      ],
+      "interrupted": false
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "id": "item_2f2a5c4d644f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8586426
+    },
+    {
+      "id": "item_cf4c47c406ed",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Jayden! This is the dental practice calling to confirm your upcoming appointment. You have an appointment scheduled for next Tuesday at 3 PM. Does this date and time still work for you?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_1979e918b158",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hey."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8129883
+    },
+    {
+      "id": "item_43bec929261d",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hi, Jayden! I'm just calling to confirm your dental appointment for next Tuesday at 3 PM. Does that still work for you?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_c32b2226bcf2",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah. It works."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9614258
+    },
+    {
+      "id": "item_e7c10caae3a9/fnc_0",
+      "type": "function_call",
+      "call_id": "call_lFSCAuy4XmHGfMpW7EUWeYO2",
+      "arguments": "{\"date\":\"next Tuesday\",\"time\":\"3 PM\"}",
+      "name": "confirm_appointment"
+    },
+    {
+      "id": "item_0081d47d642e",
+      "type": "function_call_output",
+      "name": "confirm_appointment",
+      "call_id": "call_lFSCAuy4XmHGfMpW7EUWeYO2",
+      "output": "reservation confirmed",
+      "is_error": false
+    },
+    {
+      "id": "item_48d2b99ccd69",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Great! Your appointment for next Tuesday at 3 PM is confirmed. If you need any further assistance or have any questions, feel free to reach out. Have a wonderful day!"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_2bec3731b1a7",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah. Thank you."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9951172
+    }
+  ]
+}

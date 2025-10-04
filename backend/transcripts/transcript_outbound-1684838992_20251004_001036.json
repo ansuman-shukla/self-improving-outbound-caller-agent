@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "item_822318296d55",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.75756836
+    },
+    {
+      "id": "item_bc5f8df27fb3",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Bholu Kumar! This is Ana from the bank. How are you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_5196ff66c9a2",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I'm alright."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.97802734
+    },
+    {
+      "id": "item_0163fe9dbc9e",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I'm glad to hear that! I'm reaching out to remind you about your outstanding credit card bill, which currently stands at ₹12,500.75. It's important to settle this amount as soon as possible to avoid any additional charges. Is there anything I can assist you with regarding this?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_3762455f95ec",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "No. I do not want your assistant."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9890137
+    }
+  ]
+}

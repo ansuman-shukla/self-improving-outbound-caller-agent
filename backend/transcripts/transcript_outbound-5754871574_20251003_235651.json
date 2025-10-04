@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "id": "item_4c86b3589887",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hello?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.82006836
+    },
+    {
+      "id": "item_05328ae23bb7",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello Shubham! This is Ana calling from your bank. How are you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_6f1ef01fb67c",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Right."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.7841797
+    },
+    {
+      "id": "item_10d0d10be016",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Fine."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.99316406
+    },
+    {
+      "id": "item_9dc31f269771",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Thanks for asking."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9980469
+    },
+    {
+      "id": "item_86401fef4911",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I’m glad to hear that! I'm calling to remind you about an outstanding credit card bill of ₹1250.75. We encourage you to settle this amount as quickly as possible to avoid any additional fees. \n\nIs there anything I"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_3ced19df4195",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "No. I am a virtual defaulted."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.78808594
+    }
+  ]
+}

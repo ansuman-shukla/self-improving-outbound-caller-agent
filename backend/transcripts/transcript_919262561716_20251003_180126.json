@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "id": "item_6c94aaedf74f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "I"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.40576172
+    },
+    {
+      "id": "item_76187782177f",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "It seems like your message got cut off. How may I assist you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_c2bc8f214a08",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.85375977
+    },
+    {
+      "id": "item_a322f9ee79be",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello, Jayden! How can I assist you today?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_8e6ce8e2c9a6",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "How can you help me?"
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9970703
+    },
+    {
+      "id": "item_a73d3d546bda",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "I can assist you with confirming your upcoming dental appointment, checking availability for other dates, or transferring you to a human agent if you prefer. What would you like to do?"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_f07a537a4287",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Okay. Into that."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8846435699999999
+    },
+    {
+      "id": "item_3c9e9254cb9a",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Could you please clarify what you would like to do? Would you like to confirm your appointment, check availability, or speak with a human agent?"
+      ],
+      "interrupted": false
+    }
+  ]
+}

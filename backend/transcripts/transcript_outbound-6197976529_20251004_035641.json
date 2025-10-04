@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": "item_c0d0e54e5464",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Hi."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8964844
+    },
+    {
+      "id": "item_f9d934fb4fd2",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Hello! May I speak with Ansuman Shukla, please?"
+      ],
+      "interrupted": false
+    },
+    {
+      "id": "item_5dda27c3e75f",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.8405762
+    },
+    {
+      "id": "item_8f6c674bd5ba",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "Thank you, Ansuman. I hope you are doing well today. I'm calling to remind you about an outstanding credit card bill"
+      ],
+      "interrupted": true
+    },
+    {
+      "id": "item_d1ec55327c97",
+      "type": "message",
+      "role": "user",
+      "content": [
+        "Yeah."
+      ],
+      "interrupted": false,
+      "transcript_confidence": 0.9465332
+    },
+    {
+      "id": "item_29b81ec11576",
+      "type": "message",
+      "role": "assistant",
+      "content": [
+        "The outstanding amount on your credit card is ₹51.0. I kindly urge you to settle this debt as quickly as possible to avoid any late fees or further complications. Is there anything I can assist you with regarding this payment?"
+      ],
+      "interrupted": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+livekit>=1.0
+livekit-agents[openai,deepgram,cartesia,silero,turn_detector]~=1.0
+livekit-plugins-noise-cancellation~=0.2
+python-dotenv~=1.0
+fastapi[all]~=0.115.0
+uvicorn[standard]~=0.32.0
+motor
+pymongo
+watchdog
+google-genai
