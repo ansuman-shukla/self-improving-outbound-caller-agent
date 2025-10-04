@@ -1,5 +1,6 @@
-# 🎙️ Voice Agent Evaluator & Automated Tuning Platform
 
+
+# 🎙️ Voice Agent Evaluator & Automated Tuning Platform
 <div align="center">
 
 **An AI-powered platform for testing, evaluating, and automatically optimizing voice agent prompts for debt collection conversations**
@@ -13,6 +14,13 @@
 [Features](#-key-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture) • [Documentation](#-documentation)
 
 </div>
+
+# 📹 Demo Videos
+
+Watch the project in action:
+
+- [Demo Video 1](https://www.loom.com/share/ce19bf0f6d7940fb8cf51f7fe1411a8b?sid=28e25598-cd9c-49e0-8619-6b0da7dea8e2)
+- [Demo Video 2](https://www.loom.com/share/168f8403fb5a4c50acfb9a24616c0ecd?sid=ba25d771-3901-4ef9-9d85-e2ff16187de3)
 
 ---
 
